@@ -12,3 +12,4 @@ if (salarioInicial<1300606) {
 salarioAjustado=ajuste+salarioInicial;
 alert("su salario ajustado es" + salarioAjustado);
 console.log("su salario con ajuste es igual a" + salarioAjustado);
+console.log("hola")
